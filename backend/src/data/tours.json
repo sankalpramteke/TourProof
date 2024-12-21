@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Himalayan Trek Adventure",
+    "description": "Experience the majestic Himalayas on this thrilling trek",
+    "location": "Nepal, Himalayas",
+    "price": 1200,
+    "duration": 7,
+    "maxParticipants": 12,
+    "startDate": "2024-01-15",
+    "endDate": "2024-01-22",
+    "organizer": "org1",
+    "reviews": [
+      {
+        "user": "user1",
+        "rating": 5,
+        "comment": "Amazing experience!",
+        "date": "2023-12-01T00:00:00.000Z"
+      }
+    ],
+    "ratings": [5],
+    "averageRating": 5,
+    "verified": true,
+    "createdAt": "2023-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Beach Paradise Tour",
+    "description": "Relax on pristine beaches and enjoy water sports",
+    "location": "Maldives",
+    "price": 2500,
+    "duration": 5,
+    "maxParticipants": 8,
+    "startDate": "2024-02-01",
+    "endDate": "2024-02-06",
+    "organizer": "org2",
+    "reviews": [
+      {
+        "user": "user2",
+        "rating": 4,
+        "comment": "Beautiful location!",
+        "date": "2023-12-05T00:00:00.000Z"
+      }
+    ],
+    "ratings": [4],
+    "averageRating": 4,
+    "verified": true,
+    "createdAt": "2023-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Cultural Heritage Walk",
+    "description": "Explore ancient temples and local traditions",
+    "location": "Kyoto, Japan",
+    "price": 800,
+    "duration": 3,
+    "maxParticipants": 15,
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-13",
+    "organizer": "org3",
+    "reviews": [
+      {
+        "user": "user3",
+        "rating": 5,
+        "comment": "Incredible cultural experience",
+        "date": "2023-12-10T00:00:00.000Z"
+      }
+    ],
+    "ratings": [5],
+    "averageRating": 5,
+    "verified": true,
+    "createdAt": "2023-12-03T00:00:00.000Z"
+  }
+]
